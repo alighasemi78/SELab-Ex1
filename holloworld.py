@@ -1,7 +1,7 @@
-print("Hello World")
+print("Hello World in hesan")
 
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
-  print(x)
-  if x == "banana":
-    break
+    print(x)
+    if x == "banana":
+        break
