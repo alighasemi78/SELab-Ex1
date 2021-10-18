@@ -8,9 +8,9 @@ y = 10
 #y = input('Enter value of y: ')
 
 # create a temporary variable and swap the values
-temp = x
-x = y
-y = temp
+temp = y
+y = x
+x = temp
 
 print('The value of x after swapping in hesan: {}'.format(x))
 print('The value of y after swapping in hesan: {}'.format(y))
